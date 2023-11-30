@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: **[resume here](https://github.com/qubrat/qubrat/blob/master/CV_2_JR.pdf)**
 
-- ⚡ Fun fact about me: my interests vary from **🐦 ornithology, 🪐 astronomy** and **📷 photography** to **🚜 agriculture, 🚆 railways** and **🚌 public transport**
+- ⚡ Fun fact about me: my interests range from **🐦 ornithology, 🪐 astronomy** and **📷 photography** to **🚜 agriculture, 🚆 railways** and **🚌 public transport**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
