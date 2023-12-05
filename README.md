@@ -7,11 +7,11 @@
 
 - 🌱 Currently diving into a captivating course: **Google Cloud Associate Engineer**
 
-- 💬 Ask me about stuff, I'will eagerly learn new things about: **React, TypeScript, web development, AI**
+- 💬 Ask me about stuff, I will eagerly learn new things about: **React, TypeScript, web development, AI**
 
 - 📫 Open to contact with you: **kuba.ratajczyk.biz@gmail.com**
 
-- 📄 Know about my experiences: **[resume here](https://github.com/qubrat/qubrat/blob/master/CV_2_JR.pdf)**
+- 📄 Know about my experience: **[resume here](https://github.com/qubrat/qubrat/blob/master/CV_2_JR.pdf)**
 
 - ⚡ Fun fact about me: my interests range from **🐦 ornithology, 🪐 astronomy** and **📷 photography** to **🚜 agriculture, 🚆 railways** and **🚌 public transport**
 
