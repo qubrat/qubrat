@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qubrat&label=Profile%20views&color=0e75b6&style=flat" alt="qubrat" /> </p>
 
-- 🔭 I’m currently working on my realtime chat app: **[qBee Chat](https://github.com/qubrat/qbeechat)**
+- 🔭 I’m currently working on projects in Aproco.io
 
 - 🌱 Currently diving into a captivating course: **Google Cloud Associate Engineer**
 
