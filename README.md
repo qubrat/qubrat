@@ -11,7 +11,7 @@
 
 - 📫 Open to contact with you: **kuba.ratajczyk.biz@gmail.com**
 
-- 📄 Know about my experience: **[resume here](https://github.com/qubrat/qubrat/blob/master/CV_2_JR.pdf)**
+- 📄 Know about my experience: **[resume here](https://github.com/qubrat/qubrat/blob/master/CV_JR.pdf)**
 
 - ⚡ Fun fact about me: my interests range from **🐦 ornithology, 🪐 astronomy** and **📷 photography** to **🚜 agriculture, 🚆 railways** and **🚌 public transport**
 
