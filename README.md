@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
-<h3 align="center">A passionate React developer with TypeScript</h3>
+<h3 align="center">A passionate Fullstack Developer with TypeScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qubrat&label=Profile%20views&color=0e75b6&style=flat" alt="qubrat" /> </p>
 
