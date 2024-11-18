@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qubrat&label=Profile%20views&color=0e75b6&style=flat" alt="qubrat" /> </p>
 
-- 🔭 I’m currently working on projects in Aproco.io
+- 🔭 I’m currently working on project ScrapeSphere
 
-- 🌱 Currently diving into a captivating course: **Google Cloud Associate Engineer**
+- 🌱 Currently diving into a captivating course: **Google Cloud Professional Cloud Developer**
 
-- 💬 Ask me about stuff, I will eagerly learn new things about: **React, TypeScript, web development, AI**
+- 💬 Ask me about stuff, I will eagerly learn new things about: **React, Next.js, TypeScript, web dev, AI**
 
 - 📫 Open to contact with you: **kuba.ratajczyk.biz@gmail.com**
 
